@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>39.jpg</filename>
+	<path>E:\Research\IIITB\Week3\object_detection_demo\data\images\train\39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>707</ymin>
+			<xmax>532</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+</annotation>
