@@ -50,7 +50,7 @@ if __name__ == "__main__":
         img_small = cv2.resize(img, target_size)
         new_fname = "{}.{}".format(str(i), ext)
         small_fname = os.path.join(save_dir, new_fname)
-        cv2.imwrite(small_fname, img_small)
+        cv2.imwrite(fname, img_small)
     print(
         "\nDone resizing {} files.\nSaved to directory: `{}`".format(
             len(fnames), save_dir
