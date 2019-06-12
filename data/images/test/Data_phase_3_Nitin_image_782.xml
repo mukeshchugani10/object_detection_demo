@@ -1,6 +1,6 @@
 <annotation>
 	<folder>Nitin</folder>
-	<filename>image_782.jpg</filename>
+	<filename>Data_phase_3_Nitin_image_782.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Nitin\image_782.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -21,18 +21,6 @@
 			<ymin>3</ymin>
 			<xmax>1215</xmax>
 			<ymax>741</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>872</xmin>
-			<ymin>554</ymin>
-			<xmax>1076</xmax>
-			<ymax>626</ymax>
 		</bndbox>
 	</object>
 	</annotation>

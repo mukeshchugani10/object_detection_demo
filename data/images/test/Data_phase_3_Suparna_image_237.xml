@@ -1,6 +1,6 @@
 <annotation>
 	<folder>Suparna</folder>
-	<filename>image_237.jpg</filename>
+	<filename>Data_phase_3_Suparna_image_237.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Suparna\image_237.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -23,16 +23,4 @@
 			<ymax>754</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1050</xmin>
-			<ymin>425</ymin>
-			<xmax>1288</xmax>
-			<ymax>503</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>

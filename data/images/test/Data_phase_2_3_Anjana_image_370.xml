@@ -1,6 +1,6 @@
 <annotation>
 	<folder>3_Anjana</folder>
-	<filename>image_370.jpg</filename>
+	<filename>Data_phase_2_3_Anjana_image_370.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\3_Anjana\image_370.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -23,16 +23,4 @@
 			<ymax>846</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1271</xmin>
-			<ymin>606</ymin>
-			<xmax>1548</xmax>
-			<ymax>658</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>

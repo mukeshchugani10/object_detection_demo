@@ -1,6 +1,6 @@
 <annotation>
 	<folder>Sneha</folder>
-	<filename>image_636.jpg</filename>
+	<filename>Data_phase_3_Sneha_image_636.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Sneha\image_636.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -23,16 +23,4 @@
 			<ymax>747</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>716</xmin>
-			<ymin>427</ymin>
-			<xmax>926</xmax>
-			<ymax>479</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>

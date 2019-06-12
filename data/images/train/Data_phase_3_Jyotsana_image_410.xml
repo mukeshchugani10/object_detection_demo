@@ -1,6 +1,6 @@
 <annotation>
 	<folder>Jyotsana</folder>
-	<filename>image_410.jpg</filename>
+	<filename>Data_phase_3_Jyotsana_image_410.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Jyotsana\image_410.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -21,18 +21,6 @@
 			<ymin>31</ymin>
 			<xmax>1284</xmax>
 			<ymax>782</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>637</xmin>
-			<ymin>329</ymin>
-			<xmax>748</xmax>
-			<ymax>369</ymax>
 		</bndbox>
 	</object>
 	</annotation>

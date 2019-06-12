@@ -1,6 +1,6 @@
 <annotation>
 	<folder>9_Chetna</folder>
-	<filename>image_532.jpg</filename>
+	<filename>Data_phase_2_9_Chetna_image_532.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\9_Chetna\image_532.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -23,16 +23,4 @@
 			<ymax>842</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>700</xmin>
-			<ymin>438</ymin>
-			<xmax>1342</xmax>
-			<ymax>686</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>

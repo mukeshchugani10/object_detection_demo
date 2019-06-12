@@ -1,6 +1,6 @@
 <annotation>
 	<folder>5_Shivani</folder>
-	<filename>image_1119.jpg</filename>
+	<filename>Data_phase_2_5_Shivani_image_1119.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\5_Shivani\image_1119.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -21,18 +21,6 @@
 			<ymin>8</ymin>
 			<xmax>1797</xmax>
 			<ymax>973</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1126</xmin>
-			<ymin>266</ymin>
-			<xmax>1221</xmax>
-			<ymax>299</ymax>
 		</bndbox>
 	</object>
 	</annotation>

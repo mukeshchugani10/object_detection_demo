@@ -1,6 +1,6 @@
 <annotation>
 	<folder>Sunil</folder>
-	<filename>image_555.jpg</filename>
+	<filename>Data_phase_3_Sunil_image_555.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Sunil\image_555.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -23,16 +23,4 @@
 			<ymax>819</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>914</xmin>
-			<ymin>649</ymin>
-			<xmax>1198</xmax>
-			<ymax>704</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>

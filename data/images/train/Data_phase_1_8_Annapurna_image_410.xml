@@ -1,6 +1,6 @@
 <annotation>
 	<folder>8_Annapurna</folder>
-	<filename>image_410.jpg</filename>
+	<filename>Data_phase_1_8_Annapurna_image_410.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\8_Annapurna\image_410.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -21,18 +21,6 @@
 			<ymin>1</ymin>
 			<xmax>1377</xmax>
 			<ymax>810</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>853</xmin>
-			<ymin>593</ymin>
-			<xmax>905</xmax>
-			<ymax>643</ymax>
 		</bndbox>
 	</object>
 	</annotation>

@@ -1,6 +1,6 @@
 <annotation>
 	<folder>6_Jyostna</folder>
-	<filename>image_571.jpg</filename>
+	<filename>Data_phase_2_6_Jyostna_image_571.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\6_Jyostna\image_571.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -21,18 +21,6 @@
 			<ymin>2</ymin>
 			<xmax>1774</xmax>
 			<ymax>750</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1125</xmin>
-			<ymin>642</ymin>
-			<xmax>1638</xmax>
-			<ymax>707</ymax>
 		</bndbox>
 	</object>
 	</annotation>

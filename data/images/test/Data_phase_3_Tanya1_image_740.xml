@@ -1,6 +1,6 @@
 <annotation>
 	<folder>Tanya1</folder>
-	<filename>image_740.jpg</filename>
+	<filename>Data_phase_3_Tanya1_image_740.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Tanya1\image_740.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -23,16 +23,4 @@
 			<ymax>708</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>876</xmin>
-			<ymin>542</ymin>
-			<xmax>1028</xmax>
-			<ymax>686</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>

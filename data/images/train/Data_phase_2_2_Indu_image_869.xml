@@ -1,6 +1,6 @@
 <annotation>
 	<folder>2_Indu</folder>
-	<filename>image_869.jpg</filename>
+	<filename>Data_phase_2_2_Indu_image_869.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\2_Indu\image_869.jpg</path>
 	<source>
 		<database>Unknown</database>
@@ -23,16 +23,4 @@
 			<ymax>727</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>679</xmin>
-			<ymin>510</ymin>
-			<xmax>1484</xmax>
-			<ymax>579</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>
