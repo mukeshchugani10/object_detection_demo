@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8_Annapurna</folder>
+	<filename>image_728.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\8_Annapurna\image_728.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>3</ymin>
+			<xmax>1254</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>

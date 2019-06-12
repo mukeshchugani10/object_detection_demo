@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7_Aditya</folder>
+	<filename>image_270.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\7_Aditya\image_270.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>2</ymin>
+			<xmax>1738</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>

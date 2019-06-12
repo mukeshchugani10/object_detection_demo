@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10_Praneet</folder>
+	<filename>image_454.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\10_Praneet\image_454.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>2</ymin>
+			<xmax>1248</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+</annotation>

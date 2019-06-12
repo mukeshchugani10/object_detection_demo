@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sunil</folder>
+	<filename>image_341.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Sunil\image_341.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>38</ymin>
+			<xmax>1360</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>980</xmin>
+			<ymin>644</ymin>
+			<xmax>1133</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

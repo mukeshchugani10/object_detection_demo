@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sunil</folder>
+	<filename>image_828.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Sunil\image_828.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slide</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>34</ymin>
+			<xmax>1366</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+	</annotation>
