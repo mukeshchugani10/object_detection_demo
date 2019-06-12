@@ -1,5 +1,5 @@
 <annotation>
-	<folder>5_Shivani</folder>
+	<folder>train</folder>
 	<filename>Data_phase_2_5_Shivani_image_350.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\5_Shivani\image_350.jpg</path>
 	<source>
@@ -23,16 +23,4 @@
 			<ymax>972</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1147</xmin>
-			<ymin>693</ymin>
-			<xmax>1406</xmax>
-			<ymax>724</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>

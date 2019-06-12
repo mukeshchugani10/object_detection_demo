@@ -1,5 +1,5 @@
 <annotation>
-	<folder>8_Suparna</folder>
+	<folder>train</folder>
 	<filename>Data_phase_2_8_Suparna_image_714.xml</filename>
 	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\8_Suparna\image_714.jpg</path>
 	<source>
@@ -23,16 +23,4 @@
 			<ymax>956</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>eq</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>851</xmin>
-			<ymin>779</ymin>
-			<xmax>999</xmax>
-			<ymax>803</ymax>
-		</bndbox>
-	</object>
-</annotation>
+	</annotation>
