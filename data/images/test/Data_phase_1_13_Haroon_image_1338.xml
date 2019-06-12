@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Data_phase_1_13_Haroon_image_1338.xml</filename>
-	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\13_Haroon\image_1338.jpg</path>
+	<filename>Data_phase_1_13_Haroon_image_1338.jpg</filename>
+	<path>E:\Research\IIITB\Week3\object_detection_demo\data\images\train\Data_phase_1_13_Haroon_image_1338.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

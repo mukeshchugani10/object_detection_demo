@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Data_phase_2_9_Chetna_image_848.xml</filename>
-	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\9_Chetna\image_848.jpg</path>
+	<filename>Data_phase_2_9_Chetna_image_848.jpg</filename>
+	<path>E:\Research\IIITB\Week3\object_detection_demo\data\images\train\Data_phase_2_9_Chetna_image_848.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

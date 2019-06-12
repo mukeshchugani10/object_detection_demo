@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Data_phase_3_Indu_image_893.xml</filename>
-	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Indu\image_893.jpg</path>
+	<filename>Data_phase_3_Indu_image_893.jpg</filename>
+	<path>E:\Research\IIITB\Week3\object_detection_demo\data\images\train\Data_phase_3_Indu_image_893.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

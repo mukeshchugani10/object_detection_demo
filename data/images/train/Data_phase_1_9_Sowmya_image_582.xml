@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Data_phase_1_9_Sowmya_image_582.xml</filename>
-	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\9_Sowmya\image_582.jpg</path>
+	<filename>Data_phase_1_9_Sowmya_image_582.jpg</filename>
+	<path>E:\Research\IIITB\Week3\object_detection_demo\data\images\train\Data_phase_1_9_Sowmya_image_582.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
