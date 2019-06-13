@@ -9,14 +9,17 @@ for filename in os.listdir('test/'):
 		f = 0
 		tree = ET.parse('test/'+filename)
 		root = tree.getroot()
+		l = []
 		for elem in root:
 			if (elem.tag=="object"):
 				if("eq" in [child.text for child in elem]):
 					f = 1
 				else:
-					root.remove(elem)
+					l.append(elem)
 			else:
 				pass
+		for i in range(len(l)):
+			root.remove(l[i])
 		if(f==1):
 			tree.write('data/images/test/'+filename)
 			os.rename('test/'+filename[:-3]+'jpg','data/images/test/'+filename[:-3]+'jpg')

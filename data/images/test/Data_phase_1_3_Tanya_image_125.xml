@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3_Tanya</folder>
+	<filename>Data_phase_1_3_Tanya_image_125.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\3_Tanya\image_125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>262</ymin>
+			<xmax>1016</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

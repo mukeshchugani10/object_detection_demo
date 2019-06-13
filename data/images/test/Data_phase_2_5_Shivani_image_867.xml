@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>fig</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>719</xmin>
-			<ymin>97</ymin>
-			<xmax>1270</xmax>
-			<ymax>395</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>eq</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

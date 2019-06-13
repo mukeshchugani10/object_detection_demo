@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9_Sowmya</folder>
+	<filename>Data_phase_1_9_Sowmya_image_709.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\9_Sowmya\image_709.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>815</xmin>
+			<ymin>290</ymin>
+			<xmax>1058</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>
