@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Shivani</folder>
+	<filename>Data_phase_3_Shivani_image_541.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Shivani\image_541.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>678</ymin>
+			<xmax>837</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>681</ymin>
+			<xmax>702</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

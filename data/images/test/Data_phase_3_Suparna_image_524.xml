@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Suparna</folder>
+	<filename>Data_phase_3_Suparna_image_524.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Suparna\image_524.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>248</ymin>
+			<xmax>1158</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>639</xmin>
+			<ymin>418</ymin>
+			<xmax>1033</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

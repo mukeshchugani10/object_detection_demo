@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4_Vaishnav</folder>
+	<filename>Data_phase_1_4_Vaishnav_image_393.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\4_Vaishnav\image_393.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>335</ymin>
+			<xmax>789</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

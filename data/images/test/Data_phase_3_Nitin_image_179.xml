@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Nitin</folder>
+	<filename>Data_phase_3_Nitin_image_179.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Nitin\image_179.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>275</ymin>
+			<xmax>928</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>526</ymin>
+			<xmax>1013</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>

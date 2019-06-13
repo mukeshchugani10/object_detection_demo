@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chetna</folder>
+	<filename>Data_phase_3_Chetna_image_1030.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_3\Chetna\image_1030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>44</ymin>
+			<xmax>1065</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

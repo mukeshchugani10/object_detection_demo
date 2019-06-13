@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7_Ajay</folder>
+	<filename>Data_phase_1_7_Ajay_image_278.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_1\7_Ajay\image_278.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>942</xmin>
+			<ymin>271</ymin>
+			<xmax>1139</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

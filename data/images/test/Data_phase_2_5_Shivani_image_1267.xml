@@ -1,0 +1,38 @@
+<annotation>
+	<folder>5_Shivani</folder>
+	<filename>Data_phase_2_5_Shivani_image_1267.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\5_Shivani\image_1267.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>834</xmin>
+			<ymin>276</ymin>
+			<xmax>1565</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1006</xmin>
+			<ymin>679</ymin>
+			<xmax>1247</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

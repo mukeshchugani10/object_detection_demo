@@ -1,0 +1,38 @@
+<annotation>
+	<folder>3_Anjana</folder>
+	<filename>Data_phase_2_3_Anjana_image_1301.jpg</filename>
+	<path>E:\Research\IIITB\Week7\Labelled IIITB\Data_phase_2\3_Anjana\image_1301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>823</xmin>
+			<ymin>207</ymin>
+			<xmax>1397</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>819</xmin>
+			<ymin>576</ymin>
+			<xmax>1455</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>
